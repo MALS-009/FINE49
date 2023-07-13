@@ -8,3 +8,4 @@ cd FINE49
 git pull 
 
 python F4N9.py
+
